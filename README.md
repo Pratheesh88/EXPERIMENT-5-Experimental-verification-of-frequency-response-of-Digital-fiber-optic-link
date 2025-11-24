@@ -82,6 +82,7 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 ## MODEL GRAPH
 
 ![WhatsApp Image 2025-11-16 at 15 38 27_e4f56f15](https://github.com/user-attachments/assets/c3a870b0-2714-42cf-9533-c071515e8e4b)
+![WhatsApp Image 2025-11-16 at 13 02 42_15291254](https://github.com/user-attachments/assets/10320a23-f6ef-4f58-bac3-c09d590ef782)
 
 ---
 
